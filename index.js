@@ -3,9 +3,9 @@ var authConfig = {
     "root_pass": "index",  // 根目录密码，优先于.password
     "version" : "1.0.6", // 程序版本
     "theme" : "material", // material  classic 
-    "client_id": "202264815644.apps.googleusercontent.com",
-    "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
-    "refresh_token": "", // 授权 token
+    "client_id": "1053903479155-c2h4pj8db1gunedrm43g8np0lnsurj8e.apps.googleusercontent.com",
+    "client_secret": "cbaO7aHYZnFBYD6t4F3mRhBT",
+    "refresh_token": "access_token":"ya29.a0Adw1xeWD4XHM3UZF_rod7Y64vWRQm4zidHaTRGS1fmLQAl1ZB8aY_c5pRVQPxN4b7fckZnK5IqnuFQ2MuSsRMlpd7eroC01QiIFvZEPKWE3kkV5ujetdNrsmCreKOao2moE2mXpAuNCo-yqg8XWSzdWSKHLFX1kPBnI","token_type":"Bearer","refresh_token":"1//0evpHq6WrfFvbCgYIARAAGA4SNwF-L9IrpyA-bDq4DBNb0DMctcB3fm9GkEbDfpM8oUAJjnqo4jrjY05eCxI38F7PIRg8mVdmeR8","expiry":"2020-02-24T08:48:22.4549101+08:00", // 授权 token
     "root": "root" // 根目录ID
 };
 
